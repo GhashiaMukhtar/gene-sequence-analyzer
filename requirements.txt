@@ -1,0 +1,4 @@
+# Required libraries for the project (installs latest versions)
+biopython
+pandas
+matplotlib

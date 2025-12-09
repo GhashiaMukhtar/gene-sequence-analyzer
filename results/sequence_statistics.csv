@@ -1,0 +1,23 @@
+Total number of sequences: 94
+
+Average sequence length: 718.2765957446809
+
+Longest sequence: 789
+
+Shortest sequence: 572
+
+Average GC percentage: 51.52292273565738
+
+Highest GC%: 59.5945945945946
+
+Lowest GC%: 47.58064516129033
+
+Median sequence length: 733.0
+
+Standard deviation of sequence lengths: 47.657696183205644
+
+Top 3 species with highest GC content:
+                          Sequence ID     Specie Name  Length  Base count  GC percentage  AT percentage
+37  gi|2765620|emb|Z78495.1|PEZ78495     P.emersonii     789         789      53.105196      46.894804
+35  gi|2765622|emb|Z78497.1|PDZ78497     P.delenatii     788         788      52.538071      47.461929
+89  gi|2765568|emb|Z78443.1|PLZ78443  P.lawrenceanum     784         610      50.983607      49.016393
