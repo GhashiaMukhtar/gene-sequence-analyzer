@@ -1,0 +1,17 @@
+
+GENE SEQUENCE ANALYSIS SUMMARY
+==============================
+
+Dataset: ls_orchid.fasta (94 orchid chloroplast genes)
+
+Total sequences          : 94
+Average length           : 718.3 bp
+Longest sequence         : 789 bp
+Shortest sequence        : 572 bp
+Average GC content       : 51.52%
+Highest GC%              : 59.59%  → C.irapeanum 5.8S
+Lowest GC%               : 47.58%  → C.margaritaceum 5.8S
+Standard deviation (length): 47.7 bp
+
+Generated on: 2025-12-10
+By: Ghashia Mukhtar | QAU Bioinformatics
